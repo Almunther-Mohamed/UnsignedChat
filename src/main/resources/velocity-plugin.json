@@ -1,0 +1,9 @@
+{
+  "id": "unsignedchat",
+  "name": "UnsignedChat",
+  "version": "1.0.0",
+  "description": "Lets proxy plugins cancel and modify chat and commands of 1.19.3+ clients without kicks.",
+  "authors": ["UnsignedChat"],
+  "dependencies": [],
+  "main": "me.almunther.unsignedchat.velocity.UnsignedChatVelocity"
+}

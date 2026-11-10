@@ -1,0 +1,5 @@
+name: UnsignedChat
+main: me.almunther.unsignedchat.bungee.UnsignedChatBungee
+version: 1.0.0
+author: UnsignedChat
+description: Lets proxy plugins cancel and modify chat and commands of 1.19.3+ clients without kicks or broken chat.
